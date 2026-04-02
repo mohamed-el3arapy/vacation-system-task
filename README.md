@@ -61,4 +61,4 @@ Automated system to manage requests and approvals.
 ---
 
 ### Sequence Diagram
-![Sequence](sequence_diagram.jpg)
+![Sequence](Sequence_diagram.jpg)
