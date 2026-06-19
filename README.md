@@ -51,14 +51,14 @@ Automated system to manage requests and approvals.
 ---
 
 ### Flowchart
-![Flowchart](Flowchart.PNG)
+![Flowchart](assets/Flowchart.PNG)
 
 ---
 
 ### Entity Diagram
-![Entity](Entity_diagram.jpg)
+![Entity](assets/Entity_diagram.jpg)
 
 ---
 
 ### Sequence Diagram
-![Sequence](Sequence_diagram.jpg)
+![Sequence](assets/Sequence_diagram.jpg)
